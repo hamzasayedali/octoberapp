@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "octoberapp303d8f17": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
